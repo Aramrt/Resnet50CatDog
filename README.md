@@ -1,9 +1,11 @@
 # Resnet50CatDog
 Detecting cats and dogs is a simple deep learning task but the goal of this repo is Trasnfer Learning with Resnt50
 
+!['Cat and Dog](https://storage.googleapis.com/kaggle-competitions/kaggle/3362/media/woof_meow.jpg)
+
 # Contents:
-    1. First downlaod the data (cat-dog) in [Kaggel](https://www.kaggle.com/c/dogs-vs-cats/data) 
-    2. Second download the right weights for Resnet50 in [Kaggle](https://www.kaggle.com/keras/resnet50)
+    1. First download the data (cat-dog) in (https://www.kaggle.com/c/dogs-vs-cats) 
+    2. Second download the right weights for Resnet50 in (https://www.kaggle.com/keras/resnet50)
    
   
 ## Code Description
