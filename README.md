@@ -1,5 +1,5 @@
 # Resnet50CatDog
-Detecting cats and dogs is a simple deep learning task but the goal of this repo is Trasnfer Learning with Resnt50
+Detecting cats and dogs is a simple deep learning task but the goal of this repo is Trasnfer Learning with Resnet50
 
 !['Cat and Dog](https://storage.googleapis.com/kaggle-competitions/kaggle/3362/media/woof_meow.jpg)
 
@@ -8,7 +8,7 @@ Detecting cats and dogs is a simple deep learning task but the goal of this repo
     2. Second download the right weights for Resnet50 in (https://www.kaggle.com/keras/resnet50)
    
   
-## Code Description
+# Code Description
 importing needed library : 
 ```python
 import numpy as np
@@ -26,7 +26,7 @@ from keras.layers import Dense
 ```
 
 1. When you download the weight go and paste the weight in **.keras** folder in **C:/users/admin** *path*
-2. then doing *Transfer learning* by writing **weights = 'imagenet' **
+2. then doing *Transfer learning* by writing **weights = 'imagenet'**
 3. **include_top = False** is for removing Dense Layer
 ```python
 model = Sequential()
